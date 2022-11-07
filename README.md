@@ -1,4 +1,3 @@
 # Support Vector Machine
 
 ## Introduction
-
